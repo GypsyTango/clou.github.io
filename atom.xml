@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/GypsyTango/clou.github.io</id>
     <title>熊猫拿铁</title>
-    <updated>2021-05-15T13:38:21.908Z</updated>
+    <updated>2021-05-15T13:57:19.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/GypsyTango/clou.github.io"/>
     <link rel="self" href="https://github.com/GypsyTango/clou.github.io/atom.xml"/>
@@ -10,12 +10,21 @@
     <icon>https://github.com/GypsyTango/clou.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 熊猫拿铁</rights>
     <entry>
-        <title type="html"><![CDATA[Python]]></title>
+        <title type="html"><![CDATA[Python知识杂记]]></title>
         <id>https://github.com/GypsyTango/clou.github.io/python/</id>
         <link href="https://github.com/GypsyTango/clou.github.io/python/">
         </link>
         <updated>2021-05-15T13:21:46.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>``` asd ```</code></pre>
+        <content type="html"><![CDATA[<p>1 、可变数据类型<br>
+集合（set）<br>
+字典（dict）<br>
+列表（list）</p>
+<p>2 、不可变数据类型<br>
+数字（number）<br>
+字符串（str）<br>
+元组（tuple）<br>
+不可变集合（frozenset）</p>
+<p>3、可变数据不能作为key</p>
 ]]></content>
     </entry>
 </feed>
